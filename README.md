@@ -1,4 +1,5 @@
-Exoplanet Project
+# Exoplanet Project
+
 Group 4 Members:
  - Ayoub Benhammou
 
@@ -6,19 +7,22 @@ Group 4 Members:
 
  - Ali-Reda Touzani
 
-Installation
+## Installation
+
 To install the necessary modules, run the following command:
 ```npm install```
 
-Running Tests
+## Running Tests
+
 To test the application with Jasmine, use the following command:
 ```npm run test```
 
-Starting the Server
+## Starting the Server
 To start the server, use the following command:
 ```npm start```
 
-Features
+## Features
+
 We have added a page with a form to add a new planet. This form includes checks to:
 
  - Ensure no other planet has the same name.
